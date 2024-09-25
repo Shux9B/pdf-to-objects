@@ -1,0 +1,32 @@
+{
+  "name": "pdf-to-objects",
+  "version": "0.0.1",
+  "description": "use pdfjs transform pdf file to js objs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shux9B/pdf-to-objects.git"
+  },
+  "keywords": [
+    "pdf",
+    "transform",
+    "obj"
+  ],
+  "author": "Shux9B",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/Shux9B/pdf-to-objects/issues"
+  },
+  "homepage": "https://github.com/Shux9B/pdf-to-objects#readme",
+  "dependencies": {
+    "pdfjs-dist": "^4.6.82",
+    "xstate": "^5.18.2"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
