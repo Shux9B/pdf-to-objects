@@ -20,3 +20,4 @@ const countMachine = createMachine({
         },
     },
   });
+ export default createActor(countMachine).start();
